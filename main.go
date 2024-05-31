@@ -6,9 +6,9 @@ import (
 	"encoding/json"
 	"net/http"
 
-	sdkconnmgr "github.com/flarehotspot/sdk/api/connmgr"
-	sdkhttp "github.com/flarehotspot/sdk/api/http"
-	sdkplugin "github.com/flarehotspot/sdk/api/plugin"
+	sdkconnmgr "sdk/api/connmgr"
+	sdkhttp "sdk/api/http"
+	sdkplugin "sdk/api/plugin"
 )
 
 const (
